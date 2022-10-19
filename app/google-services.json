@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895645142821",
+    "firebase_url": "https://homelessapp-57cb8-default-rtdb.firebaseio.com",
+    "project_id": "homelessapp-57cb8",
+    "storage_bucket": "homelessapp-57cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895645142821:android:47cd230ef41cd6cd8cd4cc",
+        "android_client_info": {
+          "package_name": "com.example.homelessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895645142821-mqtv9bhq4d8vq06e5o1mlhouhn11m9eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCVKGGhJ_13yi18K_vDp9almHz8QNwBnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895645142821-mqtv9bhq4d8vq06e5o1mlhouhn11m9eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

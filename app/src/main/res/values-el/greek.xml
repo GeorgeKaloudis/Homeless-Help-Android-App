@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomelessApp</string>
+    <string name="enter_password">Κωδικός</string>
+    <string name="google">google</string>
+    <string name="log_in">Σύνδεση</string>
+    <string name="sign_up">Εγγραφή</string>
+    <string name="enter_email">Ηλ. Ταχυδρομείο</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="facebook">facebook</string>
+    <string name="register">Εγγραφή</string>
+    <string name="username">Όνομα Χρήστη</string>
+    <string name="firstname">Όνομα</string>
+    <string name="lastname">Επίθετο</string>
+    <string name="email">Ηλ. Ταχυδρομείο</string>
+    <string name="password">Κωδικός</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_key">AIzaSyDO1nJ5KsC6t1dHgAsws7TNJ3udled_WP0</string>
+    <string name="title_activity_nearby_places">NearbyPlaces</string>
+    <string name="google_maps_key">AIzaSyDO1nJ5KsC6t1dHgAsws7TNJ3udled_WP0</string>
+    <string name="change_language">Αλλαγή Γλώσσας</string>
+    <string name="profile">Προφίλ</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="change_password">Αλλαγή κωδικού</string>
+    <string name="notifications">Ειδοποιήσεις</string>
+    <string name="general">Γενικά</string>
+    <string name="log_out">Αποσύνδεση</string>
+    <string name="edit_profile">Επεξεργασία Προφίλ</string>
+    <string name="homeless_pins">Homeless Pins</string>
+    <string name="locate_homeless_people_around_your_area">Εντόπισε αστέγους στη γύρω περιοχή σου</string>
+    <string name="add_marker">Προσθήκη Στίγματος </string>
+    <string name="add_marker_where_homeless_are_located">Προσθήκη στίγματος για το που βρίσκονται οι άστεγοι</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="search_for_nearby_places_e_g_supermarket_hospitals_e_t_c_using_a_km_radius">Αναζήτηση για κοντινά μέρη (e.g. σουπερμαρκετ,νοσοκομεία κ.τ.λ) χρησιμοποιώντας ακτίνα χιλιομέτρων </string>
+    <string name="emergency_call">Κλήση έκτακτης ανάγκης</string>
+    <string name="you_can_find_a_list_of_nessesary_phone_numbers">Μπορείς να βρεις μία λίστα απο απαραίτητα τηλέφωνα</string>
+    <string name="donate">Δωρεά</string>
+    <string name="make_donations_to_charitable_organizations">Κάνε δωρεές σε φιλανθρωπικούς οργανισμούς</string>
+    <string name="profile_settings_reset_password_e_t_c">Ρυθμίσεις Προφίλ,Αλλαγή κωδικού κ.τ.λ.</string>
+</resources>
